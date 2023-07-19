@@ -1,0 +1,12 @@
+button{
+    color: white;
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+}
+#yourself{
+    font-weight: 400;
+    font-size: 30px;
+    
+}
